@@ -52,7 +52,7 @@ Then:
 
 2. Build the binary:
   ```bash
-  $ xk6 build --with github.com/szkiba/xk6-dashboard@latest
+  $ xk6 build --with github.com/austinbrown34/xk6-dashboard@latest
   ```
 
 > You should use at least `v0.31.0` version because xk6-dashboard extension registers itself as output extension. This feature introduced in the `v0.31.0` version of k6.
@@ -69,7 +69,7 @@ $ ./k6 run --out dashboard script.js
           /\      |‾‾| /‾‾/   /‾‾/   
      /\  /  \     |  |/  /   /  /    
     /  \/    \    |     (   /   ‾‾\  
-   /          \   |  |\  \ |  (‾)  | 
+   /          \   |  |\  \ |  (‾)  |
   / __________ \  |__| \__\ \_____/ .io
 
   execution: local

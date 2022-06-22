@@ -1,4 +1,4 @@
-module github.com/szkiba/xk6-dashboard
+module github.com/austinbrown34/xk6-dashboard
 
 go 1.16
 
